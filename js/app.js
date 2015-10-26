@@ -1,0 +1,1 @@
+angular.module('friendsList', []); //make madule
